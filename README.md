@@ -1,4 +1,4 @@
-#<p align="center">From Pixels to Patterns: Clustering and Dimensionality Reduction in Image Data Analysis</p>
+#From Pixels to Patterns: Clustering and Dimensionality Reduction in Image Data Analysis
 <p align="center">Ian Wang<sup>1</sup>      First Last<sup>1</sup>      First Last<sup>1</sup>      First Last<sup>1</sup>      First Last<sup>1</sup></p>
 <p align="center"><br/><sup>1</sup>Texas A&M University</p>
 <p align="center"><br/>ECEN 758 Data Mining and Analysis Project Fall 2024</p>
