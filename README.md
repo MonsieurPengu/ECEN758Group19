@@ -16,13 +16,14 @@ Understanding and analyzing high-dimensional datasets is a cornerstone in modern
 Put 2 hyperlinks here to: (1) Fashion-MNIST dataset as a webpage and (2) The report itself as a pdf.
 
 ###### References
-[1] Greeshma KV, Sreekumar K., "Fashion-MNIST classification based on HOG feature descriptor using SVM," January 2019.
-[2] Han Xiao, Kashif Rasul, Rolland Vollgraf, "Fashion-MNIST: A Novel Image Dataset for Benchmarking Machine Learning Algorithms," September 2017.
-[3] Hyungkeuk Lee, NamKyung Lee, and Sungjin Lee, "A Method of Deep Learning Model Optimization for Image Classification on Edge Device," September 2022.
-[4] Iqbal H. Sarker, "Machine Learning: Algorithms, Real‑World Applications and Research Directions," 2021.
-[5] Jagadeesh D. Pujari, Rajesh Yakkundimath, and Abdulmunaf Syedhusain Byadgi, "SVM and ANN-Based Classification of Plant Diseases Using Feature Reduction Technique."
-[6] Mingyuan Xin and Yong Wang, "Research on Image Classification Model Based on Deep Convolution Neural Network," 2019.
-[7] Olivia Nocentini, Jaeseok Kim, Muhammad Zain Bashir, and Filippo Cavallo, "Image Classification Using Multiple Convolutional Neural Networks on the Fashion-MNIST Dataset," December 2022.
-[8] Vandana Kannan, "Feature Selection Using Genetic Algorithms," February 2018.
-[9] Yang Li and Xuewei Chao, "ANN-Based Continual Classification in Agriculture," May 2020.
-[10] Yansheng Li, Xin Huang, and Hui Liu, "Unsupervised Deep Feature Learning for Urban Village Detection from High-Resolution Remote Sensing Images."
+[1] A. A. Khan, H. Khandelwal, A. Kolekar and S. Lalsingi, "Comparative Analysis of Dimensionality Reduction Techniques," 2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT), Kamand, India, 2024, pp. 1-6, doi: 10.1109/ICCCNT61001.2024.10724940.
+[2] Greeshma KV, Sreekumar K., "Fashion-MNIST classification based on HOG feature descriptor using SVM," January 2019.
+[3] Han Xiao, Kashif Rasul, Rolland Vollgraf, "Fashion-MNIST: A Novel Image Dataset for Benchmarking Machine Learning Algorithms," September 2017.
+[4] Hyungkeuk Lee, NamKyung Lee, and Sungjin Lee, "A Method of Deep Learning Model Optimization for Image Classification on Edge Device," September 2022.
+[5] Iqbal H. Sarker, "Machine Learning: Algorithms, Real‑World Applications and Research Directions," 2021.
+[6] Jagadeesh D. Pujari, Rajesh Yakkundimath, and Abdulmunaf Syedhusain Byadgi, "SVM and ANN-Based Classification of Plant Diseases Using Feature Reduction Technique."
+[7] Mingyuan Xin and Yong Wang, "Research on Image Classification Model Based on Deep Convolution Neural Network," 2019.
+[8] Olivia Nocentini, Jaeseok Kim, Muhammad Zain Bashir, and Filippo Cavallo, "Image Classification Using Multiple Convolutional Neural Networks on the Fashion-MNIST Dataset," December 2022.
+[9] Vandana Kannan, "Feature Selection Using Genetic Algorithms," February 2018.
+[10] Yang Li and Xuewei Chao, "ANN-Based Continual Classification in Agriculture," May 2020.
+[11] Yansheng Li, Xin Huang, and Hui Liu, "Unsupervised Deep Feature Learning for Urban Village Detection from High-Resolution Remote Sensing Images."
