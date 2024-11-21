@@ -22,6 +22,8 @@ In summary, our analysis of the Fashion-MNIST dataset has provided key insights 
 |:-:|:-:|
 |<a href="https://www.kaggle.com/datasets/zalando-research/fashionmnist/">Report</a>|<a href="https://www.kaggle.com/datasets/zalando-research/fashionmnist/">Dataset</a>|
 
+Attached here is the report submitted as part of the project in .pdf format, as well as the dataset used for the project which was Fashion-MNIST.
+
 ## References
 [1] A. A. Khan, H. Khandelwal, A. Kolekar and S. Lalsingi, "Comparative Analysis of Dimensionality Reduction Techniques," 2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT), Kamand, India, 2024, pp. 1-6, doi: 10.1109/ICCCNT61001.2024.10724940.
 [2] Greeshma KV, Sreekumar K., "Fashion-MNIST classification based on HOG feature descriptor using SVM," January 2019.
