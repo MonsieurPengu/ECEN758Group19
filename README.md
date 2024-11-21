@@ -19,8 +19,7 @@ In summary, our analysis of the Fashion-MNIST dataset has provided key insights 
 
 ## Contents
 [<img src="fashionmnist.jpg">](https://www.kaggle.com/datasets/zalando-research/fashionmnist/)<br/>
-<a href="https://www.kaggle.com/datasets/zalando-research/fashionmnist/">Report</a><br/>
-
+<a href="https://www.kaggle.com/datasets/zalando-research/fashionmnist/">Report</a><br/><br/><br/>
 
 [<img src="fashionmnist.jpg">](https://www.kaggle.com/datasets/zalando-research/fashionmnist/)<br/>
 <a href="https://www.kaggle.com/datasets/zalando-research/fashionmnist/">Dataset</a><br/>
