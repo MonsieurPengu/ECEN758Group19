@@ -8,9 +8,9 @@ Understanding and analyzing high-dimensional datasets is a cornerstone in modern
 
 ## Fashion-MNIST and Sample Data
 
-## Selected Methodology: Convolutional Neural Network (CNN)
+## Model: Convolutional Neural Network (CNN)
 
-## Results and Conclusion
+## Conclusion
 
 ##### Contents
 Put 2 hyperlinks here to: (1) Fashion-MNIST dataset as a webpage and (2) The report itself as a pdf.
