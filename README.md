@@ -12,7 +12,7 @@ Understanding and analyzing high-dimensional datasets is a cornerstone of modern
 
 ## Results and Conclusion
 
-#### Contents
+##### Contents
 Put 2 hyperlinks here to: (1) Fashion-MNIST dataset as a webpage and (2) The report itself as a pdf.
 
 ###### References
