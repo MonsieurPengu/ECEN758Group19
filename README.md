@@ -5,7 +5,10 @@
 ## Abstract
 Understanding and analyzing high-dimensional datasets is a cornerstone of modern data mining and machine learning. In this study, we leverage advanced dimensionality reduction techniques such as Principal Component Analysis (PCA) and t-SNE to unravel meaningful patterns within the Fashion-MNIST dataset, a benchmark for image classification. We explore the efficacy of traditional machine learning models, including Decision Trees and k-Nearest Neighbors (KNN), alongside deep learning architectures like Convolutional Neural Networks (CNN), in categorizing fashion items. Covariance analysis forms the foundation of our feature extraction pipeline, ensuring robust preprocessing for optimal model performance. Through comparative evaluations, we demonstrate the interplay between dimensionality reduction and classification accuracy across diverse methodologies. Our findings highlight the significant impact of dimensionality reduction on computational efficiency and accuracy, offering actionable insights for both traditional and neural network-based approaches in high-dimensional data tasks. 
 
-### References
+### Contents
+Put 2 hyperlinks here to: (1) Fashion-MNIST dataset as a webpage and (2) The report itself as a pdf.
+
+#### References
 [1] Greeshma KV, Sreekumar K., "Fashion-MNIST classification based on HOG feature descriptor using SVM," January 2019.
 [2] Han Xiao, Kashif Rasul, Rolland Vollgraf, "Fashion-MNIST: A Novel Image Dataset for Benchmarking Machine Learning Algorithms," September 2017.
 [3] Hyungkeuk Lee, NamKyung Lee, and Sungjin Lee, "A Method of Deep Learning Model Optimization for Image Classification on Edge Device," September 2022.
