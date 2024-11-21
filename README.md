@@ -12,10 +12,10 @@ Understanding and analyzing high-dimensional datasets is a cornerstone of modern
 
 ## Results and Conclusion
 
-### Contents
+#### Contents
 Put 2 hyperlinks here to: (1) Fashion-MNIST dataset as a webpage and (2) The report itself as a pdf.
 
-##### References
+###### References
 [1] Greeshma KV, Sreekumar K., "Fashion-MNIST classification based on HOG feature descriptor using SVM," January 2019.
 [2] Han Xiao, Kashif Rasul, Rolland Vollgraf, "Fashion-MNIST: A Novel Image Dataset for Benchmarking Machine Learning Algorithms," September 2017.
 [3] Hyungkeuk Lee, NamKyung Lee, and Sungjin Lee, "A Method of Deep Learning Model Optimization for Image Classification on Edge Device," September 2022.
