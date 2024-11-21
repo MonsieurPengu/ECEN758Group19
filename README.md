@@ -8,7 +8,7 @@ Understanding and analyzing high-dimensional datasets is a cornerstone in modern
 
 ## Fashion-MNIST and Sample Data
 <p align="center">
-  [<img src="fashion.png">](https://www.kaggle.com/datasets/zalando-research/fashionmnist/)
+  <img src="fashion.png">(https://www.kaggle.com/datasets/zalando-research/fashionmnist/)
 </p>
 
 ## Model: Convolutional Neural Network (CNN)
