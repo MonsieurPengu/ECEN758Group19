@@ -18,6 +18,7 @@ Put 2 hyperlinks here to: (1) Fashion-MNIST dataset as a webpage and (2) The rep
 <li class="masthead__menu-item">
           <a href="https://www.kaggle.com/datasets/zalando-research/fashionmnist">Dataset</a>
         </li>
+        [<img src="fashion.png">](https://www.kaggle.com/datasets/zalando-research/fashionmnist)
 
 ###### References
 [1] A. A. Khan, H. Khandelwal, A. Kolekar and S. Lalsingi, "Comparative Analysis of Dimensionality Reduction Techniques," 2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT), Kamand, India, 2024, pp. 1-6, doi: 10.1109/ICCCNT61001.2024.10724940.
