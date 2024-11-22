@@ -16,11 +16,17 @@ We have recently witnessed a rapid evolution in data-driven technologies, includ
 <p align="center">
   <img src="decisiontree.png">
 </p><br/>
+Accuracy: 0.7972
+Validation Accuracy (Decision Tree): 0.7727
+Test Accuracy (Decision Tree): 0.7539<br/>
 
 ## Model: Random Forest
 <p align="center">
   <img src="randomforest.png">
 </p><br/>
+Accuracy: 0.8827
+Validation Accuracy: 0.8701
+Test Accuracy: 0.8587<br/>
 
 ## Model: Convolutional Neural Network (CNN)
 <p align="center">
@@ -28,6 +34,10 @@ We have recently witnessed a rapid evolution in data-driven technologies, includ
   <img src="loss.png">
   <img src="cnnconfusionmatrix.png">
 </p><br/>
+Accuracy: 0.9269
+Validation Accuracy: 0.9134
+Test Accuracy: 0.9093
+
 
 The 3 figures shown above represent the Model Accuracy vs. Number of Epochs, Model Loss vs. Number of Epochs, and Confusion Matrix respectively. The resulting model accuracy we achieved was right in between 90 and 93%. <br/>
 
@@ -36,6 +46,20 @@ The 3 figures shown above represent the Model Accuracy vs. Number of Epochs, Mod
 <p align="center">
   <img src="sequential.png">
 </p><br/>
+
+Best Hyperparameters:<br/>
+conv1_filters: 32<br/>
+conv1_kernel: 3<br/>
+conv2_filters: 256<br/>
+conv2_kernel: 3<br/>
+dense_units: 384<br/>
+dropout_rate: 0.30000000000000004<br/>
+learning_rate: 0.0004272970012783842<br/>
+
+After Tuning:<br/>
+Accuracy: 0.9068<br/>
+Validation Accuracy: 0.9096<br/>
+Test Accuracy: 0.9067999720573425<br/>
 
 ## Conclusion
 In summary, our analysis of the Fashion-MNIST dataset has provided key insights into the performance and applicability of various machine learning and deep learning models in regard to image classification. K-Nearest Neighbors and Decision Trees provided baselines using conventional approaches, whereas the Support Vector Machine stood out for its strong performance in classification among conventional algorithms. While Artificial Neural Networks introduced the benefit of capturing complex data patterns for better accuracy, the classical methods were still lacking. Convolutional Neural Networks, designed for image-based tasks, outperformed all other methods by utilizing their strengths in extracting hierarchical and spatial features. The study has also pointed out the use of PCA and t-SNE dimensionality reduction techniques in enhancing computational efficiency without losing critical data features. Hyperparameter tuning of the CNN model resulted in higher gains, implying that good performance involves iterative optimization of the model. This extensive assessment therefore underlines the importance of making model selection and optimization strategies conform to characteristics in a dataset, hence providing a framework through which high-dimensional image classification challenges can be addressed. These findings not only reinforce the versatility of CNNs but also provide actionable insights for future explorations in data mining and machine learning.<br/>
