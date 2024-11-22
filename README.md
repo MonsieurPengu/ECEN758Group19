@@ -16,8 +16,8 @@ We have recently witnessed a rapid evolution in data-driven technologies, includ
 <p align="center">
   <img src="decisiontree.png">
 </p><br/>
-Accuracy: 0.7972
-Validation Accuracy (Decision Tree): 0.7727
+Accuracy: 0.7972<br/>
+Validation Accuracy (Decision Tree): 0.7727<br/>
 Test Accuracy (Decision Tree): 0.7539<br/>
 
 ## Model: Random Forest
