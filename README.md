@@ -36,7 +36,7 @@ We have recently witnessed a rapid evolution in data-driven technologies, includ
   Accuracy: 0.9269<br/>
   Validation Accuracy: 0.9134<br/>
   Test Accuracy: 0.9093<br/>
-</p><br/>
+</p>
 
 The 3 figures shown above represent the Model Accuracy vs. Number of Epochs, Model Loss vs. Number of Epochs, and Confusion Matrix respectively. The resulting model accuracy we achieved was right in between 90 and 93%. <br/>
 
