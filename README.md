@@ -12,7 +12,7 @@ Understanding and analyzing high-dimensional datasets is a cornerstone in modern
 </p><br/>
 We have recently witnessed a rapid evolution in data-driven technologies, including unprecedented advances in machine learning and artificial intelligence, some of which have taken place in image analysis. The current stream of innovation is fueled by newer data sets, such as Fashion-MNIST, its alternative being the classic MNIST dataset. Unlike its predecessor, Fashion-MNIST would be more intricate, focusing on a challenge within classification tasks for gray-scale images of different garments. It thus provides extra complexity and, therefore, is a great benchmark for machine learning and deep learning algorithms.<br/>
 
-## Model: Convolutional Neural Network (CNN)
+## Model Selection: Convolutional Neural Network (CNN)
 <p align="center">
   <img src="accuracy.png">
   <img src="loss.png">
