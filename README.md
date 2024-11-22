@@ -14,19 +14,19 @@ We have recently witnessed a rapid evolution in data-driven technologies, includ
 
 ## Model: Decision Tree
 <p align="center">
-  <img src="decisiontree.png">
+  <img src="decisiontree.png"><br/>
+  Accuracy: 0.7972<br/>
+  Validation Accuracy (Decision Tree): 0.7727<br/>
+  Test Accuracy (Decision Tree): 0.7539<br/>
 </p><br/>
-Accuracy: 0.7972<br/>
-Validation Accuracy (Decision Tree): 0.7727<br/>
-Test Accuracy (Decision Tree): 0.7539<br/>
 
 ## Model: Random Forest
 <p align="center">
-  <img src="randomforest.png">
+  <img src="randomforest.png"><br/>
+  Accuracy: 0.8827<br/>
+  Validation Accuracy: 0.8701<br/>
+  Test Accuracy: 0.8587<br/>
 </p><br/>
-Accuracy: 0.8827
-Validation Accuracy: 0.8701
-Test Accuracy: 0.8587<br/>
 
 ## Model: Convolutional Neural Network (CNN)
 <p align="center">
