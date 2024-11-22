@@ -14,12 +14,12 @@ We have recently witnessed a rapid evolution in data-driven technologies, includ
 
 ## Model: Decision Tree
 <p align="center">
-  <img src="accuracy.png">
+  <img src="decisiontree.png">
 </p><br/>
 
 ## Model: Random Forest
 <p align="center">
-  <img src="accuracy.png">
+  <img src="randomforest.png">
 </p><br/>
 
 ## Model: Convolutional Neural Network (CNN)
