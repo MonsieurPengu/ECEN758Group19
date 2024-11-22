@@ -1,5 +1,5 @@
 # From Pixels to Patterns: Clustering and Dimensionality Reduction in Image Data Analysis
-<p align="center">Ian Wang<sup>1</sup>      Debal Goswami<sup>1</sup>      Angelina Ibarra<sup>1</sup>      Sai Koushik Rao Dugyala<sup>1</sup>      Prathmesh Thorwe<sup>1</sup></p><br/>
+<p align="center">Ian Wang<sup>1</sup>      Debal Goswami<sup>1</sup>      Angelina Ibarra<sup>1</sup>      Sai Dugyala<sup>1</sup>      Prathmesh Thorwe<sup>1</sup></p><br/>
 <p align="center"><sup>1</sup>Texas A&M University</p><br/>
 <p align="center">ECEN 758 Data Mining and Analysis Project Fall 2024</p><br/>
 
