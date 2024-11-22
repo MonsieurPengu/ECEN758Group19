@@ -70,7 +70,7 @@ In summary, our analysis of the Fashion-MNIST dataset has provided key insights 
 <a href="https://drive.google.com/file/d/12Ek1qqHTWnN5npqUp1JddMcky6y0gyX4/view?usp=drive_link/"><strong>Report</strong></a><br/><br/><br/>
 
 [<img src="kaggleicon.png">](https://www.kaggle.com/datasets/zalando-research/fashionmnist/)<br/>
-<a href="https://www.kaggle.com/datasets/zalando-research/fashionmnist/">Dataset</a><br/>
+<a href="https://www.kaggle.com/datasets/zalando-research/fashionmnist/"><strong>Dataset</strong></a><br/>
 
 Attached here is the report submitted as part of the project, as well as the dataset used for the project which was Fashion-MNIST.<br/>
 
