@@ -1,7 +1,7 @@
 # From Pixels to Patterns: Clustering and Dimensionality Reduction in Image Data Analysis
 <p align="center">Ian Wang<sup>1</sup>      Debal Goswami<sup>1</sup>      Angelina Ibarra<sup>1</sup>      Sai Dugyala<sup>1</sup>      Prathmesh Thorwe<sup>1</sup></p>
 <p align="center"><sup>1</sup>Texas A&M University</p>
-<p align="center">ECEN 758 Data Mining and Analysis Project Fall 2024</p><br/>
+<p align="center">ECEN 758 Data Mining and Analysis Project Fall 2024</p>
 
 ## Abstract
 Understanding and analyzing high-dimensional datasets is a cornerstone in modern data mining and machine learning. In this project, we employed PCA and t-SNE dimensionality reduction techniques to uncover meaningful patterns in Fashion-MNIST, a benchmark for image classification. We investigate the effectiveness of various conventional machine learning models, such as Decision Trees and k-Nearest Neighbors (KNN), together with deep learning architectures like Convolutional Neural Networks (CNN), for classifying fashion items. Variance analysis is the core of our feature extraction pipeline that ensures sound pre-processing to have the best performance out of a chosen model. In this regard, through comparative studies, we can showcase how dimensionality reduction interacts with classification performance for different methods. Our work underlines the considerable effects of reduction in dimensions on computational efficiency and accuracy; it therefore provides practical insights into both classical and neural network-based methods for high-dimensional data tasks.<br/>
