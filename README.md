@@ -44,7 +44,8 @@ The 3 figures shown above represent the Model Accuracy vs. Number of Epochs, Mod
 
 <p align="center">
   <img src="sequential.png"><br/>
-  
+</p><br/>
+<p align="center"> 
   Best Hyperparameters:<br/>
   conv1_filters: 32<br/>
   conv1_kernel: 3<br/>
