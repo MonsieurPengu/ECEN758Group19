@@ -46,7 +46,7 @@ The 3 figures shown above represent the Model Accuracy vs. Number of Epochs, Mod
   <img src="sequential.png"><br/>
 </p>
 <p align="center"> 
-  Best Hyperparameters:<br/>
+  **Best Hyperparameters:**<br/>
   conv1_filters: 32<br/>
   conv1_kernel: 3<br/>
   conv2_filters: 256<br/>
@@ -56,7 +56,7 @@ The 3 figures shown above represent the Model Accuracy vs. Number of Epochs, Mod
   learning_rate: 0.0004272970012783842<br/>
 </p>
 <p align="center"> 
-  After Tuning:<br/>
+  **After Tuning:**<br/>
   Accuracy: 0.9068<br/>
   Validation Accuracy: 0.9096<br/>
   Test Accuracy: 0.9067999720573425<br/>
