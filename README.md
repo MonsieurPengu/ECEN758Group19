@@ -19,10 +19,10 @@ We have recently witnessed a rapid evolution in data-driven technologies, includ
   <img src="cnnconfusionmatrix.png">
 </p><br/>
 
-The 3 figures shown above represent the Model Accuracy vs. Number of Epochs, Model Loss vs. Number of Epochs, and Confusion Matrix respectively. The resulting model accuracy we achieved was right in between 90 and 93%.
+The 3 figures shown above represent the Model Accuracy vs. Number of Epochs, Model Loss vs. Number of Epochs, and Confusion Matrix respectively. The resulting model accuracy we achieved was right in between 90 and 93%. <br/>
 
 <p align="center">
-  <img src="accuracy.png">
+  <img src="sequential.png">
 </p><br/>
 
 ## Conclusion
