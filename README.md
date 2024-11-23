@@ -73,7 +73,7 @@ In summary, our analysis of the Fashion-MNIST dataset has provided key insights 
 <a href="https://www.kaggle.com/datasets/zalando-research/fashionmnist/"><strong><u>Dataset</u></strong></a><br/><br/><br/>
 
 [<img src="github.png">](https://github.com/MonsieurPengu/ECEN758Group19/)<br/>
-<a href="https://github.com/MonsieurPengu/ECEN758Group19/"><strong><u>Repository</u></strong></a><br/>
+<a href="https://github.com/MonsieurPengu/ECEN758Group19/"><strong><u>Repository</u></strong></a><br/><br/><br/>
 
 Attached here is the report submitted as part of the project, and the dataset used for the project which was Fashion-MNIST, as well as the GitHub repository.<br/>
 
